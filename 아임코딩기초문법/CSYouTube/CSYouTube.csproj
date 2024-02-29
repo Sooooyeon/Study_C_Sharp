@@ -7,4 +7,20 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="기초문법.cs" />
+    <Compile Remove="상속.cs" />
+    <Compile Remove="추상화.cs" />
+    <Compile Remove="캡슐화.cs" />
+    <Compile Remove="클래스.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="기초문법.cs" />
+    <None Include="상속.cs" />
+    <None Include="추상화.cs" />
+    <None Include="캡슐화.cs" />
+    <None Include="클래스.cs" />
+  </ItemGroup>
+
 </Project>

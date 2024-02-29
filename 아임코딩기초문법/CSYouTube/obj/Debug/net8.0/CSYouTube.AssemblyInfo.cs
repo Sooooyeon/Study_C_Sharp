@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSYouTube")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84c9f72da34d1ce753e7706d38dd14a8f093fb1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSYouTube")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSYouTube")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\KOSTA\\Desktop\\c#\\Study_C_Sharp\\\uC544\uC784\uCF54\uB529\uAE30\uCD08\uBB38\uBC95\\CSYouTube\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A7726F9-669B-4AA9-BCAD-A40B2F6572B7}|CSYouTube.csproj|c:\\users\\kosta\\desktop\\c#\\study_c_sharp\\\uC544\uC784\uCF54\uB529\uAE30\uCD08\uBB38\uBC95\\csyoutube\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A7726F9-669B-4AA9-BCAD-A40B2F6572B7}|CSYouTube.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A7726F9-669B-4AA9-BCAD-A40B2F6572B7}|CSYouTube.csproj|c:\\users\\kosta\\desktop\\c#\\study_c_sharp\\\uC544\uC784\uCF54\uB529\uAE30\uCD08\uBB38\uBC95\\csyoutube\\\uC624\uBC84\uB85C\uB529 \uC624\uBC84\uB77C\uC774\uB529.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7726F9-669B-4AA9-BCAD-A40B2F6572B7}|CSYouTube.csproj|solutionrelative:\uC624\uBC84\uB85C\uB529 \uC624\uBC84\uB77C\uC774\uB529.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7726F9-669B-4AA9-BCAD-A40B2F6572B7}|CSYouTube.csproj|c:\\users\\kosta\\desktop\\c#\\study_c_sharp\\\uC544\uC784\uCF54\uB529\uAE30\uCD08\uBB38\uBC95\\csyoutube\\\uC0C1\uC18D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7726F9-669B-4AA9-BCAD-A40B2F6572B7}|CSYouTube.csproj|solutionrelative:\uC0C1\uC18D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7726F9-669B-4AA9-BCAD-A40B2F6572B7}|CSYouTube.csproj|c:\\users\\kosta\\desktop\\c#\\study_c_sharp\\\uC544\uC784\uCF54\uB529\uAE30\uCD08\uBB38\uBC95\\csyoutube\\csyoutube.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A7726F9-669B-4AA9-BCAD-A40B2F6572B7}|CSYouTube.csproj|solutionrelative:csyoutube.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7726F9-669B-4AA9-BCAD-A40B2F6572B7}|CSYouTube.csproj|c:\\users\\kosta\\desktop\\c#\\study_c_sharp\\\uC544\uC784\uCF54\uB529\uAE30\uCD08\uBB38\uBC95\\csyoutube\\\uCD94\uC0C1\uD654.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7726F9-669B-4AA9-BCAD-A40B2F6572B7}|CSYouTube.csproj|solutionrelative:\uCD94\uC0C1\uD654.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7726F9-669B-4AA9-BCAD-A40B2F6572B7}|CSYouTube.csproj|c:\\users\\kosta\\desktop\\c#\\study_c_sharp\\\uC544\uC784\uCF54\uB529\uAE30\uCD08\uBB38\uBC95\\csyoutube\\\uCEA1\uC290\uD654.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7726F9-669B-4AA9-BCAD-A40B2F6572B7}|CSYouTube.csproj|solutionrelative:\uCEA1\uC290\uD654.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7726F9-669B-4AA9-BCAD-A40B2F6572B7}|CSYouTube.csproj|c:\\users\\kosta\\desktop\\c#\\study_c_sharp\\\uC544\uC784\uCF54\uB529\uAE30\uCD08\uBB38\uBC95\\csyoutube\\\uD074\uB798\uC2A4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7726F9-669B-4AA9-BCAD-A40B2F6572B7}|CSYouTube.csproj|solutionrelative:\uD074\uB798\uC2A4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7726F9-669B-4AA9-BCAD-A40B2F6572B7}|CSYouTube.csproj|c:\\users\\kosta\\desktop\\c#\\study_c_sharp\\\uC544\uC784\uCF54\uB529\uAE30\uCD08\uBB38\uBC95\\csyoutube\\\uAE30\uCD08\uBB38\uBC95.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7726F9-669B-4AA9-BCAD-A40B2F6572B7}|CSYouTube.csproj|solutionrelative:\uAE30\uCD08\uBB38\uBC95.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +43,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\c#\\Study_C_Sharp\\\uC544\uC784\uCF54\uB529\uAE30\uCD08\uBB38\uBC95\\CSYouTube\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\c#\\Study_C_Sharp\\\uC544\uC784\uCF54\uB529\uAE30\uCD08\uBB38\uBC95\\CSYouTube\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAGMAAAAAAAAAAAAcwHEAAAAlAAAA",
+              "Title": "\uC624\uBC84\uB85C\uB529 \uC624\uBC84\uB77C\uC774\uB529.cs",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\c#\\Study_C_Sharp\\\uC544\uC784\uCF54\uB529\uAE30\uCD08\uBB38\uBC95\\CSYouTube\\\uC624\uBC84\uB85C\uB529 \uC624\uBC84\uB77C\uC774\uB529.cs",
+              "RelativeDocumentMoniker": "\uC624\uBC84\uB85C\uB529 \uC624\uBC84\uB77C\uC774\uB529.cs",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\c#\\Study_C_Sharp\\\uC544\uC784\uCF54\uB529\uAE30\uCD08\uBB38\uBC95\\CSYouTube\\\uC624\uBC84\uB85C\uB529 \uC624\uBC84\uB77C\uC774\uB529.cs",
+              "RelativeToolTip": "\uC624\uBC84\uB85C\uB529 \uC624\uBC84\uB77C\uC774\uB529.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:26:42.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uC0C1\uC18D.cs",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\c#\\Study_C_Sharp\\\uC544\uC784\uCF54\uB529\uAE30\uCD08\uBB38\uBC95\\CSYouTube\\\uC0C1\uC18D.cs",
+              "RelativeDocumentMoniker": "\uC0C1\uC18D.cs",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\c#\\Study_C_Sharp\\\uC544\uC784\uCF54\uB529\uAE30\uCD08\uBB38\uBC95\\CSYouTube\\\uC0C1\uC18D.cs",
+              "RelativeToolTip": "\uC0C1\uC18D.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:14:41.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\uCD94\uC0C1\uD654.cs",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\c#\\Study_C_Sharp\\\uC544\uC784\uCF54\uB529\uAE30\uCD08\uBB38\uBC95\\CSYouTube\\\uCD94\uC0C1\uD654.cs",
+              "RelativeDocumentMoniker": "\uCD94\uC0C1\uD654.cs",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\c#\\Study_C_Sharp\\\uC544\uC784\uCF54\uB529\uAE30\uCD08\uBB38\uBC95\\CSYouTube\\\uCD94\uC0C1\uD654.cs",
+              "RelativeToolTip": "\uCD94\uC0C1\uD654.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAcwBIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:14:32.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\uCEA1\uC290\uD654.cs",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\c#\\Study_C_Sharp\\\uC544\uC784\uCF54\uB529\uAE30\uCD08\uBB38\uBC95\\CSYouTube\\\uCEA1\uC290\uD654.cs",
+              "RelativeDocumentMoniker": "\uCEA1\uC290\uD654.cs",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\c#\\Study_C_Sharp\\\uC544\uC784\uCF54\uB529\uAE30\uCD08\uBB38\uBC95\\CSYouTube\\\uCEA1\uC290\uD654.cs",
+              "RelativeToolTip": "\uCEA1\uC290\uD654.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:14:15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "\uD074\uB798\uC2A4.cs",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\c#\\Study_C_Sharp\\\uC544\uC784\uCF54\uB529\uAE30\uCD08\uBB38\uBC95\\CSYouTube\\\uD074\uB798\uC2A4.cs",
+              "RelativeDocumentMoniker": "\uD074\uB798\uC2A4.cs",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\c#\\Study_C_Sharp\\\uC544\uC784\uCF54\uB529\uAE30\uCD08\uBB38\uBC95\\CSYouTube\\\uD074\uB798\uC2A4.cs",
+              "RelativeToolTip": "\uD074\uB798\uC2A4.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAiwFIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:57:33.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CSYouTube.csproj",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\c#\\Study_C_Sharp\\\uC544\uC784\uCF54\uB529\uAE30\uCD08\uBB38\uBC95\\CSYouTube\\CSYouTube.csproj",
+              "RelativeDocumentMoniker": "CSYouTube.csproj",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\c#\\Study_C_Sharp\\\uC544\uC784\uCF54\uB529\uAE30\uCD08\uBB38\uBC95\\CSYouTube\\CSYouTube.csproj",
+              "RelativeToolTip": "CSYouTube.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-29T06:16:25.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "\uAE30\uCD08\uBB38\uBC95.cs",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\c#\\Study_C_Sharp\\\uC544\uC784\uCF54\uB529\uAE30\uCD08\uBB38\uBC95\\CSYouTube\\\uAE30\uCD08\uBB38\uBC95.cs",
+              "RelativeDocumentMoniker": "\uAE30\uCD08\uBB38\uBC95.cs",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\c#\\Study_C_Sharp\\\uC544\uC784\uCF54\uB529\uAE30\uCD08\uBB38\uBC95\\CSYouTube\\\uAE30\uCD08\uBB38\uBC95.cs",
+              "RelativeToolTip": "\uAE30\uCD08\uBB38\uBC95.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T04:28:09.293Z",
               "EditorCaption": ""

@@ -12,3 +12,4 @@ C:\Users\KOSTA\Desktop\c#\Study_C_Sharp\아임코딩기초문법\CSYouTube\obj\D
 C:\Users\KOSTA\Desktop\c#\Study_C_Sharp\아임코딩기초문법\CSYouTube\obj\Debug\net8.0\CSYouTube.pdb
 C:\Users\KOSTA\Desktop\c#\Study_C_Sharp\아임코딩기초문법\CSYouTube\obj\Debug\net8.0\CSYouTube.genruntimeconfig.cache
 C:\Users\KOSTA\Desktop\c#\Study_C_Sharp\아임코딩기초문법\CSYouTube\obj\Debug\net8.0\ref\CSYouTube.dll
+C:\Users\KOSTA\Desktop\c#\Study_C_Sharp\아임코딩기초문법\CSYouTube\obj\Debug\net8.0\CSYouTube.sourcelink.json
