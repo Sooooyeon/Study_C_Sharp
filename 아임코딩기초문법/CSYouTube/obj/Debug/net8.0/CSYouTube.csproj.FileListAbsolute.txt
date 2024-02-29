@@ -1,0 +1,14 @@
+C:\Users\KOSTA\Desktop\c#\Study_C_Sharp\아임코딩기초문법\CSYouTube\bin\Debug\net8.0\CSYouTube.exe
+C:\Users\KOSTA\Desktop\c#\Study_C_Sharp\아임코딩기초문법\CSYouTube\bin\Debug\net8.0\CSYouTube.deps.json
+C:\Users\KOSTA\Desktop\c#\Study_C_Sharp\아임코딩기초문법\CSYouTube\bin\Debug\net8.0\CSYouTube.runtimeconfig.json
+C:\Users\KOSTA\Desktop\c#\Study_C_Sharp\아임코딩기초문법\CSYouTube\bin\Debug\net8.0\CSYouTube.dll
+C:\Users\KOSTA\Desktop\c#\Study_C_Sharp\아임코딩기초문법\CSYouTube\bin\Debug\net8.0\CSYouTube.pdb
+C:\Users\KOSTA\Desktop\c#\Study_C_Sharp\아임코딩기초문법\CSYouTube\obj\Debug\net8.0\CSYouTube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOSTA\Desktop\c#\Study_C_Sharp\아임코딩기초문법\CSYouTube\obj\Debug\net8.0\CSYouTube.AssemblyInfoInputs.cache
+C:\Users\KOSTA\Desktop\c#\Study_C_Sharp\아임코딩기초문법\CSYouTube\obj\Debug\net8.0\CSYouTube.AssemblyInfo.cs
+C:\Users\KOSTA\Desktop\c#\Study_C_Sharp\아임코딩기초문법\CSYouTube\obj\Debug\net8.0\CSYouTube.csproj.CoreCompileInputs.cache
+C:\Users\KOSTA\Desktop\c#\Study_C_Sharp\아임코딩기초문법\CSYouTube\obj\Debug\net8.0\CSYouTube.dll
+C:\Users\KOSTA\Desktop\c#\Study_C_Sharp\아임코딩기초문법\CSYouTube\obj\Debug\net8.0\refint\CSYouTube.dll
+C:\Users\KOSTA\Desktop\c#\Study_C_Sharp\아임코딩기초문법\CSYouTube\obj\Debug\net8.0\CSYouTube.pdb
+C:\Users\KOSTA\Desktop\c#\Study_C_Sharp\아임코딩기초문법\CSYouTube\obj\Debug\net8.0\CSYouTube.genruntimeconfig.cache
+C:\Users\KOSTA\Desktop\c#\Study_C_Sharp\아임코딩기초문법\CSYouTube\obj\Debug\net8.0\ref\CSYouTube.dll
