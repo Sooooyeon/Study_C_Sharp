@@ -1,0 +1,15 @@
+/Users/jangsooyeon/Desktop/Study_C_Sharp/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject
+/Users/jangsooyeon/Desktop/Study_C_Sharp/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/Users/jangsooyeon/Desktop/Study_C_Sharp/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/Users/jangsooyeon/Desktop/Study_C_Sharp/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.dll
+/Users/jangsooyeon/Desktop/Study_C_Sharp/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.pdb
+/Users/jangsooyeon/Desktop/Study_C_Sharp/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jangsooyeon/Desktop/Study_C_Sharp/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/Users/jangsooyeon/Desktop/Study_C_Sharp/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/Users/jangsooyeon/Desktop/Study_C_Sharp/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/jangsooyeon/Desktop/Study_C_Sharp/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.sourcelink.json
+/Users/jangsooyeon/Desktop/Study_C_Sharp/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.dll
+/Users/jangsooyeon/Desktop/Study_C_Sharp/CsharpProjects/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/Users/jangsooyeon/Desktop/Study_C_Sharp/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.pdb
+/Users/jangsooyeon/Desktop/Study_C_Sharp/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/Users/jangsooyeon/Desktop/Study_C_Sharp/CsharpProjects/TestProject/obj/Debug/net8.0/ref/TestProject.dll
